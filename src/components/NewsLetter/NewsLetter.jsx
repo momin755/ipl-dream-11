@@ -2,7 +2,7 @@ import React from 'react';
 
 const NewsLetter = () => {
     return (
-        <div className='container relative  top-68 mx-auto my-32 rounded-2xl'>
+        <div className='container relative  top-52 mx-auto my-12 rounded-2xl'>
             <div className="py-32 bg-[url('https://i.ibb.co.com/4wMvZdM9/bg-shadow.png')] z-30 bg-blue-300
             bg-no-repeat bg-cover rounded-2xl bg-center p-20 text-center space-y-4 ">
             <h1 className='text-3xl font-bold'>Subscribe to our Newsletter</h1>

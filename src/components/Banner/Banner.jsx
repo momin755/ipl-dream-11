@@ -8,7 +8,8 @@ const Banner = ({handleAddCoin}) => {
     backgroundImage: "url(https://i.ibb.co.com/4wMvZdM9/bg-shadow.png)",
     backgroundRepeat:'no-repeat',
     backgroundPosition: 'center',
-    backgroundSize:'cover'
+    backgroundSize:'cover',
+    backgroundColor:'black'
   }}>
   <div className="hero-overlay py-8 rounded-2xl">
   <div className="hero-content text-neutral-content text-center mx-auto">
