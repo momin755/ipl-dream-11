@@ -71,7 +71,7 @@ player.Claim some Credit`,
       return errNotify()
     }
     else{
-        if(count < 6 || !existPlayer){
+        if(count < 6 && !existPlayer){
           setCount(count +1)
       setPlayers([...players, player])
       notify(`${player.name}`)
